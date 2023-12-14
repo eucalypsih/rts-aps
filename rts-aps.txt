@@ -2,3 +2,10 @@ IZPH VPN PRO_com,izphprov2,net_1,3.apks
 58bfdf0350e08d3ac6023ae44e47fe8a
 eucalypsihg
 https://drive.google.com/file/d/116hwzIMGIuCCUA1-DRBSiyppTwuKjxlg/view?usp=drivesdk
+
+UDP Client_co,tkstudio,hotvpn_3,8.apks
+a563a5ed6c616f946ba4d93791ba9229
+eucalypsih
+https://drive.google.com/file/d/11KP9hJlOzWq89PCrReKe8_7yX7muXbGQ/view?usp=drivesdk
+
+
